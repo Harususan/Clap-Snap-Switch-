@@ -1,3 +1,4 @@
+
 // Declaring the required pins 
 int SoundSensor = 5;
 int LED = 2;
